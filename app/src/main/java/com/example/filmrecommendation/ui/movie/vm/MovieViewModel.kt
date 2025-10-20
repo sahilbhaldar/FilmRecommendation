@@ -5,7 +5,6 @@ import androidx.lifecycle.ViewModel
 import androidx.lifecycle.viewModelScope
 import com.example.filmrecommendation.data.model.Movie
 import com.example.filmrecommendation.data.model.MovieDetail
-import com.example.filmrecommendation.data.model.MovieDetailResponseByPage
 import com.example.filmrecommendation.data.repository.MovieRepository
 import com.example.filmrecommendation.resource.Resource
 import dagger.hilt.android.lifecycle.HiltViewModel

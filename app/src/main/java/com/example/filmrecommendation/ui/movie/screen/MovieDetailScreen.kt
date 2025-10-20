@@ -106,8 +106,6 @@ fun MovieDetailScreen(imdbID: String, viewModel: MovieViewModel) {
                         //IMDB Rating
                         Row(verticalAlignment = Alignment.CenterVertically) {
                             val filledStars = (imdbRating / 2).toInt()
-                            val hasHalf = imdbRating % 2 >= 1
-
                             repeat(5) { index ->
                                 if (index < filledStars) {
                                     Icon(

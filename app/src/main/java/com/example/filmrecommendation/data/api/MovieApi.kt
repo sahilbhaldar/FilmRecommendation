@@ -1,7 +1,6 @@
 package com.example.filmrecommendation.data.api
 
 import com.example.filmrecommendation.data.model.MovieDetail
-import com.example.filmrecommendation.data.model.MovieDetailResponseByPage
 import com.example.filmrecommendation.data.model.MovieSearchResponse
 import com.example.movierecommendation.utils.Constants
 import retrofit2.http.GET

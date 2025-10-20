@@ -1,9 +1,7 @@
 package com.example.filmrecommendation.data.repository
 
-import android.util.Log
 import com.example.filmrecommendation.data.api.MovieApi
 import com.example.filmrecommendation.data.model.MovieDetail
-import com.example.filmrecommendation.data.model.MovieDetailResponseByPage
 import com.example.filmrecommendation.data.model.MovieSearchResponse
 import javax.inject.Inject
 import javax.inject.Singleton
