@@ -23,12 +23,12 @@ The project demonstrates modern Android development practices, including state m
 7. State Management: StateFlow & Compose collectAsState
 
 Screenshots
-1. <img width="1080" height="2400" alt="image" src="https://github.com/user-attachments/assets/20fdfc8e-edfb-44f4-a683-9c8b11e29e4a" />
-2. <img width="1080" height="2400" alt="image" src="https://github.com/user-attachments/assets/8de7efee-98ea-4c04-886c-3fc0b1bbe657" />
-3. <img width="1080" height="2400" alt="image" src="https://github.com/user-attachments/assets/f57b5c84-6c36-4a3d-aa81-f48eb964d32d" />
-4. <img width="1080" height="2400" alt="image" src="https://github.com/user-attachments/assets/48771c40-e195-4082-a151-216bb88da831" />
-5. <img width="1080" height="2400" alt="image" src="https://github.com/user-attachments/assets/b0dfffeb-3589-4088-81ce-e7d76b66136c" />
-6. <img width="1080" height="2400" alt="image" src="https://github.com/user-attachments/assets/97414cd4-76a9-4454-a340-76f5b958a425" />
+1. <img width="800" height="1600" alt="image" src="https://github.com/user-attachments/assets/20fdfc8e-edfb-44f4-a683-9c8b11e29e4a" />
+2. <img width="800" height="1600" alt="image" src="https://github.com/user-attachments/assets/8de7efee-98ea-4c04-886c-3fc0b1bbe657" />
+3. <img width="800" height="1600" alt="image" src="https://github.com/user-attachments/assets/f57b5c84-6c36-4a3d-aa81-f48eb964d32d" />
+4. <img width="800" height="1600" alt="image" src="https://github.com/user-attachments/assets/48771c40-e195-4082-a151-216bb88da831" />
+5. <img width="800" height="1600" alt="image" src="https://github.com/user-attachments/assets/b0dfffeb-3589-4088-81ce-e7d76b66136c" />
+6. <img width="800" height="1600" alt="image" src="https://github.com/user-attachments/assets/97414cd4-76a9-4454-a340-76f5b958a425" />
 
 
 
