@@ -1,4 +1,4 @@
-<img width="1080" height="2400" alt="image" src="https://github.com/user-attachments/assets/64ec32fe-7101-4e0c-a3e9-5c01c1f2d62d" /># FilmRecommendation
+FilmRecommendation
 
 FilmRecommendation is an Android application built using Jetpack Compose, Kotlin, and MVVM architecture. This app fetches movie data from the OMDb API and provides an intuitive interface to search, browse, and view detailed information about movies.
 
